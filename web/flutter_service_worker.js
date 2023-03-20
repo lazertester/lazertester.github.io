@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/sprites/bg.png": "bb15e66ee451002d8bffb2086d57dce5",
 "assets/assets/sprites/fighter.json": "7c92f022f1315509a4bbe4e0d0f91a31",
 "assets/assets/sprites/fighter.png": "24354584e5cab883c9dce9bf5d3d2f8c",
-"assets/assets/sprites/icons.json": "0e00892edc2b5be52a5ffb6d92979e87",
+"assets/assets/sprites/icons.json": "e8ebec44bdc27092d64f48cea890e447",
 "assets/assets/sprites/icons.png": "944130d08abea24364311b3f18c89c1d",
 "assets/assets/sprites/small-monsters.json": "c17ae3408a72c2482ec533d98af093c2",
 "assets/assets/sprites/small-monsters.png": "768a555702256b3a6cc5d9c08929c1f0",
@@ -29,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "95b4a98155a07a8396a339509a80dc16",
 "icons/Icon-maskable-192.png": "ab8946c4b0ee36d5b45d36a22831ff66",
 "icons/Icon-maskable-512.png": "95b4a98155a07a8396a339509a80dc16",
-"index.html": "d898b6d0c698694e76b731326c6fced3",
-"/": "d898b6d0c698694e76b731326c6fced3",
-"main.dart.js": "27c574a6c39fd3b3a7513a2954ecee75",
+"index.html": "dfecd195fa5369428567ec55bb39e62c",
+"/": "dfecd195fa5369428567ec55bb39e62c",
+"main.dart.js": "c3240ed1c1c3d4247eefd9dc80c0ce86",
 "manifest.json": "e8f750ab1980918aea6b535b6af20a94",
 "version.json": "53d36ea95928d602e507dddf0c4234a0"
 };
